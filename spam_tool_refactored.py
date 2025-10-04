@@ -52,7 +52,7 @@ BANNER_ART = f"""
 {Colors.GREEN}             [   {Colors.RESET}\x1b[041m SPAM WA UNLIMITED \x1b[00m{Colors.GREEN}   ]{Colors.RESET}
 {Colors.PURPLE}
 {Colors.PURPLE}╔{'═'*22}╗
-{Colors.PURPLE}║ {Colors.GREEN}Contoh Nomor 08××××××××××   {Colors.PURPLE} ║
+{Colors.PURPLE}║ {Colors.GREEN}Contoh Nomor 08××××××××××   {Colors.PURPLE}║
 {Colors.PURPLE}╚{'═'*22}╝{Colors.RESET}
 {Colors.RED}{'─'*50}{Colors.RESET}
 """
@@ -152,3 +152,4 @@ def main():
 if __name__ == '__main__':
 
     main()
+
